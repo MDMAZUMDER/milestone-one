@@ -1,0 +1,126 @@
+.hot-deal-section {
+  background-color: #e554730d;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.hot-deal-left h4 {
+  color: #272727;
+  font-size: 25px;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+.hot-deal-left {
+  width: 380px;
+  text-align: center;
+}
+.hot-deal-left p {
+  color: #27272799;
+  font-size: 13px;
+}
+.hot-deal-left button {
+  border-radius: 8px;
+  background: #e55473;
+  color: #ffffff;
+  width: 100px;
+  height: 41px;
+  margin-top: 13px;
+  border: none;
+}
+.hot-deal-right {
+}
+.hot-deal-right img {
+}
+.Instagram-section {
+  font-family: Lato;
+  width: 81%;
+  margin: auto;
+}
+.Instagram-top-section {
+  text-align: center;
+}
+
+.Instagram-top-section h4 {
+  color: #272727;
+  font-size: 35px;
+  margin-bottom: 17px;
+  font-weight: 800;
+}
+.Instagram-top-section p {
+  margin: auto;
+  width: 575px;
+  margin-bottom: 40px;
+  color: #27272799;
+  font-size: 18px;
+  font-weight: 400;
+}
+.Instagram-img-section {
+  display: flex;
+  justify-content: space-around;
+}
+.img img {
+  width: 100%;
+  height: 300px;
+}
+.Deals {
+  height: 344px;
+  background-image: url('../img/Rectangle9.png');
+  background-size: cover;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.Deals h4 {
+  color: #272727;
+  font-size: 40px;
+  padding-top: 100px;
+  margin-bottom: 0px;
+  font-weight: 800;
+}
+input[type='text'] {
+  height: 45px;
+  width: 45%;
+  color: #27272799;
+  padding-left: 20px;
+  border-radius: 8px;
+  border: none;
+}
+input[type='button'] {
+  width: 130px;
+  height: 45px;
+  border-radius: 8px;
+  margin-left: 8px;
+  color: white;
+  border: none;
+  background: #e55473;
+}
+footer {
+  background: #111010;
+  height: 300px;
+  width: 100%;
+  font-family: Lato;
+  text-align: center;
+}
+footer h3 {
+  color: #e55473;
+  font-size: 48px;
+  font-weight: 800;
+  padding-top: 50px;
+  margin-bottom: 26px;
+}
+footer p {
+  color: #ffffffe5;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: auto;
+  margin-bottom: 15px;
+  width: 625px;
+}
+footer small {
+  color: #ffffff66;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
