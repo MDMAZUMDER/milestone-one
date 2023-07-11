@@ -1,11 +1,14 @@
 * {
   font-family: 'Lato', sans-serif;
 }
+button:hover {
+  cursor: pointer;
+}
 nav {
   display: flex;
   justify-content: space-between;
   background-color: #ddcfcf;
-   margin-top: -10px;
+  margin-top: -15px;
   height: 96px;
 }
 .logo img {
@@ -118,6 +121,7 @@ nav {
 .Featured-bottom ul li h5 {
   text-decoration: underline;
   margin-bottom: 60px;
+  cursor: pointer;
   margin-top: 6px;
 }
 .bonas-section ul li {
@@ -219,6 +223,7 @@ input[type='button'] {
   height: 45px;
   border-radius: 8px;
   margin-left: 8px;
+  cursor: pointer;
   color: white;
   border: none;
   background: #e55473;
