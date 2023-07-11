@@ -5,6 +5,7 @@ nav {
   display: flex;
   justify-content: space-between;
   background-color: #ddcfcf;
+   margin-top: -10px;
   height: 96px;
 }
 .logo img {
