@@ -16,7 +16,9 @@ nav {
   margin-top: 17px;
   margin-left: 88px;
 }
-
+.logo img:hover {
+  cursor: pointer;
+}
 .manu ul {
   display: flex;
   list-style: none;
